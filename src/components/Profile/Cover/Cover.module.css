@@ -1,0 +1,6 @@
+.coverImg {
+    filter: brightness(80%);
+}
+.coverImg:hover {
+    filter: brightness(100%);
+}

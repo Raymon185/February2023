@@ -1,0 +1,13 @@
+.myPosts {
+    width:  100%;
+}
+.textarea {
+    width: 100%;
+}
+.buttonPosts {
+    margin-right: 0;
+    background-color: aqua;
+}
+.buttonPosts button {
+    display: flex;
+}
